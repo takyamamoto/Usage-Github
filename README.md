@@ -23,3 +23,6 @@ git push -u origin master
 
 ## Write README.md
 [わかりやすいREADME.mdを書く](https://deeeet.com/writing/2014/07/31/readme/)  
+
+## Markdown
+[Markdown記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)
